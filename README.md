@@ -1,12 +1,11 @@
+<h1 align="center">🛡️ Privacy Invoice OCR</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite&style=flat-square" alt="Vite">
   <img src="https://img.shields.io/badge/PaddleJS-OCR-0EA5E9?style=flat-square" alt="PaddleJS">
   <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/privacy-first-100%25%20local-8B5CF6?style=flat-square" alt="Privacy">
-  <img src="https://img.shields.io/badge/offline-ready-ok-green?style=flat-square" alt="Offline">
 </p>
 
-<h1 align="center">🛡️ Privacy Invoice OCR</h1>
 <p align="center"><strong>100% 本地 · 零网络外传 · 浏览器端发票 OCR 批量工作台</strong></p>
 
 <p align="center">
